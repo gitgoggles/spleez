@@ -10,7 +10,7 @@ fn main() {
 
     match process::Command::new("sh")
         .arg("-c")
-        .arg("tailwindcss -i web_assets/tailwind-input.css -o assets/tailwind-output.css --minify")
+        .arg("tailwindcss -i web_assets/tailwind-input.css -o web_assets/tailwind-output.css --minify")
         .output()
     {
         Ok(output) => {

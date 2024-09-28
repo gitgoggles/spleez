@@ -5,6 +5,9 @@ Basic email ticketing.
 - [ ] user logins (basic, ldap, sso?)
 - [ ] fetch emails and parse into tickets
 - [ ] send emails
-- [ ] ticket management (merging, editing, assigning)
+- [ ] ticket management
+    - [ ] merging
+    - [ ] editing
+    - [ ] assigning
 - [ ] oauth?
 - [ ] passkeys?
