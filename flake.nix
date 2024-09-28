@@ -39,9 +39,12 @@
             ];
 
             shellHook = ''
-              alias watchrun='cargo watch -c -q -x run'
+              xdg-open http://localhost:3001/
+              alias watchrun='cargo watch -c -q -x run;'
 
               echo "Default devShell: ${manifest.name}"
+
+
 
             '';
           };
