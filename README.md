@@ -1,0 +1,2 @@
+# spleez
+Basic email ticketing.
