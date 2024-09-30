@@ -9,5 +9,7 @@ Basic email ticketing.
     - [ ] merging
     - [ ] editing
     - [ ] assigning
+    - [ ] round robin
+    - [ ] template replies
 - [ ] oauth?
 - [ ] passkeys?
